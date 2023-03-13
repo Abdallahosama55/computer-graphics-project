@@ -31,3 +31,5 @@ Use the mouth clicks to control user input, please follow the below order in tak
 7. 2 clicks for line 3(Hair of the shape) [.5]
 
 
+![9](https://user-images.githubusercontent.com/82631323/224644326-8706ef52-57d5-44f8-b90f-fda35b2e2dee.png)
+
